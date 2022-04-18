@@ -45,7 +45,7 @@
     "react-circular-progressbar": "^2.0.4",
     "react-dom": "^16.14.0",
     "react-helmet": "^6.1.0",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-tooltip": "^4.2.21",
     "typed.js": "^2.0.12"
   },
